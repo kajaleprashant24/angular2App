@@ -1,6 +1,7 @@
 # Angular2App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+Project can be loaded at https://gqaixrmk.github.stackblitz.io/dashboard
 
 ## Development server
 
